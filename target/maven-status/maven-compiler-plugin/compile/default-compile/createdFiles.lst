@@ -1,0 +1,11 @@
+com\fetch\receipt\controller\ReceiptController.class
+com\fetch\receipt\exception\CustomExceptionHandler.class
+com\fetch\receipt\model\Receipt.class
+com\fetch\receipt\dao\ReceiptDao.class
+com\fetch\receipt\exception\NotFoundException.class
+com\fetch\receipt\model\Id.class
+com\fetch\receipt\model\Points.class
+com\fetch\receipt\service\ReceiptService.class
+com\fetch\receipt\app\ReceiptApplication.class
+com\fetch\receipt\exception\BadRequestException.class
+com\fetch\receipt\model\Item.class
